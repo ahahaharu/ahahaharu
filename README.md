@@ -1,11 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrey</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahahaharu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahahaharu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">Hi 👋! My name is Andrey. I'm Web Developer from Belarus!</h2>
 
 ###
 
@@ -17,8 +10,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
@@ -45,13 +36,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahahaharu/ahahaharu/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/tzg3b7f5zzyd4vz3rv830yqq1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tzg3b7f5zzyd4vz3rv830yqq1&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
