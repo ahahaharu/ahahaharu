@@ -41,4 +41,4 @@
 ![Codewars](https://github.r2v.ch/codewars?user=ahahaharu&name=true&stroke=%23b362ff&theme=purple_dark)
 ###
 <img src="https://raw.githubusercontent.com/ahahaharu/ahahaharu/output/snake.svg" alt="Snake animation" />
-###
+
