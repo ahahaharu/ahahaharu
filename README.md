@@ -37,12 +37,8 @@
   </a>
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=ahahaharu)
-
 ###
-
-<br clear="both">
-
+![Codewars](https://github.r2v.ch/codewars?user=ahahaharu)
+###
 <img src="https://raw.githubusercontent.com/ahahaharu/ahahaharu/output/snake.svg" alt="Snake animation" />
-
 ###
