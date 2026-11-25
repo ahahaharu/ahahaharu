@@ -16,17 +16,6 @@ I'm a frontend developer who enjoys building things end-to-end. Spent the last f
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [tutor-crm](https://github.com/ahahaharu/tutor-crm-frontend) *(in progress)* | Full-stack CRM for tutors — schedule and finance tracking. I wrote both backend and frontend. | Next.js, TypeScript, Node.js, REST |
-| [blogger-feed](https://github.com/ahahaharu/blogger-feed) | Blog platform on Next.js App Router. SSR & SSG, search, filters, Zustand. | Next.js, Zustand, shadcn/ui |
-| [recipes-app](https://github.com/ahahaharu/recipes-app) | SPA with GraphQL (Apollo), WebSocket demo, auth. Unit + integration tests included. | React, TanStack, GraphQL, Vite |
-| [wildberries-clone](https://github.com/ahahaharu/wildberries-clone) | E-commerce SPA — catalogue, filters, product pages, auth. Webpack configured from scratch. | React, RTK Query, MUI, Webpack |
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-bogdanovich)
